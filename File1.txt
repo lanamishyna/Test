@@ -1,11 +1,7 @@
 testing line
-<<<<<<< HEAD
+untesting line
 commit test
 456
-=======
-
 456
-
 789.
 10
->>>>>>> 8d64fd881cce1773f421a6e8b85a5bfe8450df47
